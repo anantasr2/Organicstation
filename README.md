@@ -19,7 +19,6 @@
 - [Deployment](#-deployment)
 - [Halaman](#-halaman)
 - [Catatan Pengembangan](#-catatan-pengembangan)
-- [Kontribusi](#-kontribusi)
 - [Lisensi](#-lisensi)
 - [Tentang Developer](#-tentang-developer)
 
@@ -142,17 +141,6 @@ Project ini di-deploy menggunakan **Vercel** sebagai static site — cukup conne
 
 ---
 
-## 🤝 Kontribusi
-
-Kontribusi, issue, dan feature request sangat terbuka. Silakan cek [halaman issues](https://github.com/<username>/organicstation/issues) sebelum membuat yang baru.
-
-1. Fork repository ini
-2. Buat branch baru (`git checkout -b fitur/nama-fitur`)
-3. Commit perubahan (`git commit -m 'feat: tambah fitur X'`)
-4. Push ke branch (`git push origin fitur/nama-fitur`)
-5. Buka Pull Request
-
----
 
 ## 📄 Lisensi
 
@@ -162,7 +150,7 @@ Didistribusikan dengan lisensi **MIT**. Lihat `LICENSE` untuk informasi lebih la
 
 ## 👨‍💻 Tentang Developer
 
-**[Nama Kamu]**
+**Ananta Surya Pratama**
 Mahasiswa S1 Teknik Informatika — membangun project ini sebagai bagian dari eksplorasi pengembangan web front-end.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/<username>)
